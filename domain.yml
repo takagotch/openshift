@@ -1,0 +1,5 @@
+---
+#domain
+- TYPE: CHAME
+  TTL: 3600 #DEFAULT
+  VALUE: appname-domain.rhcloud.com
